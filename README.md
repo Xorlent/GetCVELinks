@@ -3,7 +3,7 @@ This script iterates through a specified directory (and its subdirectories) look
   
 ## Requirements
   1. PowerShell on the machine you'd like to scan
-  2. A Github account (authentication is required for the hyperlinks to function)
+  2. A Github account (required only when clicking hyperlinks in the generated HTML file)
   3. A path to some application that has JAR files you'd like to assess
   
 ## Notes
